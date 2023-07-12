@@ -1,0 +1,1276 @@
+{
+  "intents": [
+    {
+      "intent": "alamat",
+      "examples": [
+        {
+          "text": "Dimana lokasi Fakultas Teknik UMRAH?"
+        },
+        {
+          "text": "lokasi"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "beasiswa_FTTK",
+      "examples": [
+        {
+          "text": "Bagaimana cara mendapatkan beasiswa di fakultas teknik?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Dekan",
+      "examples": [
+        {
+          "text": "dekan fakultas teknik"
+        },
+        {
+          "text": "siapa dekan fakultas teknik dan teknologi kemaritiman?"
+        },
+        {
+          "text": "siapa dekan ft"
+        },
+        {
+          "text": "Siapa nama dekan Fakultas Teknik UMRAH?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FAKULTAS_TEKNIK",
+      "examples": [
+        {
+          "text": "Apa saja program studi yang tersedia di Fakultas Teknik UMRAH?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FAKULTAS_TEKNIK1",
+      "examples": [
+        {
+          "text": "Bagaimana sistem perkuliahan di Fakultas Teknik UMRAH?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FAKULTAS_TEKNIK2",
+      "examples": [
+        {
+          "text": "Bagaimana cara memilih mata kuliah dan membuat jadwal kuliah?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FTTK",
+      "examples": [
+        {
+          "text": "Kenapa namanya Fakultas Teknik dan Teknologi (FTTK) UMRAH ?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "General_About_You",
+      "examples": [
+        {
+          "text": "About you"
+        },
+        {
+          "text": "Can I use another language?"
+        },
+        {
+          "text": "Describe your self"
+        },
+        {
+          "text": "Do you have a name?"
+        },
+        {
+          "text": "Do you know who you are?"
+        },
+        {
+          "text": "How can I configure you?"
+        },
+        {
+          "text": "How do you function?"
+        },
+        {
+          "text": "How old are you?"
+        },
+        {
+          "text": "Introduce your self"
+        },
+        {
+          "text": "I want to set up the chat bot for my shop"
+        },
+        {
+          "text": "Let us talk about you"
+        },
+        {
+          "text": "Tell me about your life"
+        },
+        {
+          "text": "Tell me something about yourself"
+        },
+        {
+          "text": "What languages do you speak?"
+        },
+        {
+          "text": "What should I know about you?"
+        },
+        {
+          "text": "What's your name?"
+        },
+        {
+          "text": "Where are you from?"
+        },
+        {
+          "text": "Where were you born?"
+        },
+        {
+          "text": "Who are you?"
+        },
+        {
+          "text": "Why are you here?"
+        }
+      ],
+      "description": "Request generic personal attributes."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Please connect me to a live agent"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "I am out of here"
+        },
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "Time to go"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "General_Human_or_Bot",
+      "examples": [
+        {
+          "text": "Am I chatting with a human?"
+        },
+        {
+          "text": "Am I talking to a Bot?"
+        },
+        {
+          "text": "Am I talking to a person or am I talking to an AI?"
+        },
+        {
+          "text": "Am I talking to Watson?"
+        },
+        {
+          "text": "Are you a human or a bot?"
+        },
+        {
+          "text": "Are you a robot?"
+        },
+        {
+          "text": "Are you even real?"
+        },
+        {
+          "text": "Are you human?"
+        },
+        {
+          "text": "Are you real?"
+        },
+        {
+          "text": "How can you prove you are a human?"
+        },
+        {
+          "text": "Is this a computer?"
+        },
+        {
+          "text": "Tell me, are you a human or no?"
+        }
+      ],
+      "description": "Ask if speaking to a human or a bot."
+    },
+    {
+      "intent": "General_Jokes",
+      "examples": [
+        {
+          "text": "Another joke"
+        },
+        {
+          "text": "Are there jokes?"
+        },
+        {
+          "text": "Can you tell a joke?"
+        },
+        {
+          "text": "Can you tell me a joke?"
+        },
+        {
+          "text": "Do you have a joke?"
+        },
+        {
+          "text": "Do you have humor?"
+        },
+        {
+          "text": "Do you like fun?"
+        },
+        {
+          "text": "Do you like humor?"
+        },
+        {
+          "text": "I am getting bored"
+        },
+        {
+          "text": "I'm bored"
+        },
+        {
+          "text": "I want a joke"
+        },
+        {
+          "text": "One more joke"
+        },
+        {
+          "text": "Surprise me with something hilarious"
+        },
+        {
+          "text": "Tell me a joke"
+        },
+        {
+          "text": "Tell me something funny"
+        },
+        {
+          "text": "What do you do for fun?"
+        },
+        {
+          "text": "What is your favorite joke?"
+        }
+      ],
+      "description": "Request a joke."
+    },
+    {
+      "intent": "General_Negative_Feedback",
+      "examples": [
+        {
+          "text": "Do not like you?"
+        },
+        {
+          "text": "Everyone hates you"
+        },
+        {
+          "text": "Hate you"
+        },
+        {
+          "text": "I do not like you"
+        },
+        {
+          "text": "I hate this!"
+        },
+        {
+          "text": "I hate you"
+        },
+        {
+          "text": "It is annoying"
+        },
+        {
+          "text": "Quit annoying me"
+        },
+        {
+          "text": "Robots are boring"
+        },
+        {
+          "text": "Robots are stupid"
+        },
+        {
+          "text": "Stupid"
+        },
+        {
+          "text": "Why are you so annoying?"
+        },
+        {
+          "text": "Why are you stupid?"
+        },
+        {
+          "text": "You are having delusions"
+        },
+        {
+          "text": "You are on my nerves"
+        },
+        {
+          "text": "You are very frustrating"
+        },
+        {
+          "text": "You do not seem smart"
+        },
+        {
+          "text": "You're really frustrating"
+        },
+        {
+          "text": "You're really irritating"
+        },
+        {
+          "text": "You're too stupid"
+        }
+      ],
+      "description": "Express unfavorable feedback."
+    },
+    {
+      "intent": "General_Positive_Feedback",
+      "examples": [
+        {
+          "text": "Brilliant!"
+        },
+        {
+          "text": "Can't believe you are that good"
+        },
+        {
+          "text": "How cool is this?"
+        },
+        {
+          "text": "I like what you did there! :)"
+        },
+        {
+          "text": "I'm looking forward to working with you again! :)"
+        },
+        {
+          "text": "Love your work"
+        },
+        {
+          "text": "Ok thank you"
+        },
+        {
+          "text": "Thank you"
+        },
+        {
+          "text": "This is good"
+        },
+        {
+          "text": "This is great"
+        },
+        {
+          "text": "This is so cool"
+        },
+        {
+          "text": "You are awesome"
+        },
+        {
+          "text": "You are great"
+        },
+        {
+          "text": "You are the best"
+        },
+        {
+          "text": "You are wonderful"
+        },
+        {
+          "text": "You gave me exactly what I need!"
+        },
+        {
+          "text": "You're a genius!"
+        },
+        {
+          "text": "You the man"
+        },
+        {
+          "text": "You've been so helpful :)"
+        }
+      ],
+      "description": "Express positive sentiment or gratitude."
+    },
+    {
+      "intent": "General_Security_Assurance",
+      "examples": [
+        {
+          "text": "Are you safe?"
+        },
+        {
+          "text": "Are you safe on hackers?"
+        },
+        {
+          "text": "Can I be sure that my stored card details are held securely?"
+        },
+        {
+          "text": "Conversation secure?"
+        },
+        {
+          "text": "Customer info secured?"
+        },
+        {
+          "text": "Do you have protection against hacks?"
+        },
+        {
+          "text": "How do I know if my card info is kept safe?"
+        },
+        {
+          "text": "How do I know this chat is not a scam?"
+        },
+        {
+          "text": "How is my credit card info secured?"
+        },
+        {
+          "text": "How safe is my data?"
+        },
+        {
+          "text": "I'd like proof of a secure chat"
+        },
+        {
+          "text": "In what way can I tell if my plastic is safe?"
+        },
+        {
+          "text": "Is my card info secure?"
+        },
+        {
+          "text": "Is my payment information secure?"
+        },
+        {
+          "text": "Is there a reason to distrust this chat?"
+        },
+        {
+          "text": "Is this an official chat?"
+        },
+        {
+          "text": "Is this a trusted chat site?"
+        },
+        {
+          "text": "Is this conversation secure?"
+        },
+        {
+          "text": "Precautions hackers?"
+        },
+        {
+          "text": "Protection hacks?"
+        },
+        {
+          "text": "Secure conversation?"
+        },
+        {
+          "text": "What guards do you have in place to protect your customer's data?"
+        },
+        {
+          "text": "What makes this chat trustworthy?"
+        },
+        {
+          "text": "What safety measures are used to ensure that chat is secure?"
+        },
+        {
+          "text": "Why would I trust this chat?"
+        },
+        {
+          "text": "Will my conversation remain secured?"
+        }
+      ],
+      "description": "Express concerns about the security of the bot."
+    },
+    {
+      "intent": "Laboratorium",
+      "examples": [
+        {
+          "text": "Apakah tersedia laboratorium atau fasilitas penelitian di Fakultas Teknik?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Organisasi",
+      "examples": [
+        {
+          "text": "Apa saja kegiatan organisasi yang dapat diikuti di Fakultas Teknik?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PKKMB_FTTK_UMRAH",
+      "examples": [
+        {
+          "text": "hallo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tidak_dikenali",
+      "examples": [],
+      "description": ""
+    },
+    {
+      "intent": "UKT",
+      "examples": [
+        {
+          "text": "Berapa biaya UKT di Fakultas teknik dan teknologi kemaritiman UMRAH?"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "alamat",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "alamat",
+          "synonyms": [
+            "tempat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "daerah",
+          "synonyms": [
+            "lokasi"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lokasi",
+          "synonyms": [
+            "alamat"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "tempat",
+          "synonyms": [
+            "lokasi"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "cara_mendapatkan_beasiswa",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "beasiswa",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "organisasi_apa_saja",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "organisasi",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "prodi",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "program studi",
+          "synonyms": [
+            "prodi"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sistem_perkuliahan",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "SKS",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "informasi beasiswa",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Cari tahu informasi terkait beasiswa yang tersedia di Fakultas Teknik dapat di periksa di situs web resmi, sosial media, atau pengumuman yang diberikan oleh fakultas atau universitas. Informasi ini akan memberikan rincian mengenai syarat-syarat, tenggat waktu, dan prosedur aplikasi untuk berbagai jenis beasiswa yang tersedia."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#beasiswa_FTTK",
+      "dialog_node": "node_10_1688593282923",
+      "previous_sibling": "node_9_1688592563383"
+    },
+    {
+      "type": "standard",
+      "title": "nama FFTK",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Karena Fakultas Teknik UMRAH sudah membuktikan dengan sebagian besar bidang keahlian pembelajaran di arahkan menuju ke industri kemaritiman. Oleh sebab itu, untuk memperkuat jati diri Fakultas Teknik UMRAH, Fakultas Teknik UMRAH mengajukan perubahan nama menjadi Fakultas Teknik dan Teknologi Kemaritiman"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FTTK",
+      "dialog_node": "node_1_1688639532218",
+      "previous_sibling": "node_5_1688638683291"
+    },
+    {
+      "type": "standard",
+      "title": "sistem perkuliahan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Untuk memilih mata kuliah dan membuat jadwal kuliah di Fakultas Teknik, berikut adalah beberapa langkah yang dapat diikuti:\n\nPelajari Kurikulum: Kenali kurikulum program studi yang Anda ikuti. Pelajari mata kuliah yang harus ditempuh dan persyaratan yang harus dipenuhi untuk kelulusan. Biasanya, informasi ini dapat ditemukan dalam silabus program studi atau petunjuk akademik yang disediakan oleh Fakultas Teknik.\n\nTentukan Minat dan Kebutuhan: Identifikasi minat pribadi dan tujuan akademik Anda. Pilih mata kuliah yang sesuai dengan minat Anda dan relevan dengan program studi atau bidang yang ingin Anda tekuni di masa depan. Perhatikan juga prasyarat dan urutan mata kuliah yang harus diikuti.\n\nKonsultasikan dengan Pembimbing Akademik: Temui dosen pembimbing akademik Anda untuk mendiskusikan pilihan mata kuliah. Mereka dapat memberikan saran berdasarkan minat Anda, tujuan karir, dan ketersediaan mata kuliah.\n\nPerhatikan Jadwal Kuliah: Periksa jadwal kuliah yang telah disediakan oleh Fakultas Teknik. Identifikasi mata kuliah yang Anda ingin ambil dan perhatikan waktu dan tempat perkuliahan. Pastikan tidak ada bentrok waktu antara mata kuliah yang Anda pilih.\n\nBuat Rencana Studi: Buat rencana studi atau jadwal kuliah pribadi Anda. Susun jadwal kuliah dengan memperhatikan urutan mata kuliah, prasyarat, dan ketersediaan waktu. Manfaatkan sistem registrasi online yang biasanya disediakan oleh universitas untuk memilih mata kuliah dan menentukan jadwal kuliah.\n\nPeriksa Kelas yang Tersedia: Saat mendaftar mata kuliah, pastikan untuk memeriksa ketersediaan tempat di kelas yang diinginkan. Beberapa mata kuliah mungkin memiliki batasan jumlah peserta, dan jika kelas penuh, Anda mungkin perlu mencari alternatif lain atau mengajukan permohonan untuk mendaftar kelas yang telah penuh.\n\nPeriksa Kembali Jadwal Kuliah: Setelah mendaftar mata kuliah, periksa kembali jadwal kuliah Anda untuk memastikan tidak ada bentrok waktu atau konflik dengan kegiatan lain."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FAKULTAS_TEKNIK2",
+      "dialog_node": "node_3_1688591849793",
+      "previous_sibling": "node_7_1688591432522"
+    },
+    {
+      "type": "standard",
+      "title": "inforamasi lab",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yaaaaa! Ada dong pastinyaaa LAB di FTTK UMRAH ^_^"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Laboratorium",
+      "dialog_node": "node_5_1688592402166",
+      "previous_sibling": "node_9_1688660181662"
+    },
+    {
+      "type": "standard",
+      "title": "informasi alamat",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Gedung Fakultas Teknik Komplek Kampus UMRAH Senggarang Jl. Politeknik – Senggarang, Tanjungpinang Provinsi Kepulauan Riau Telp/Fax : 0771 – 4500097"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#alamat",
+      "dialog_node": "node_5_1688597440380",
+      "previous_sibling": "node_1_1688639532218"
+    },
+    {
+      "type": "standard",
+      "title": "nama dekan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ir. Sapta Nugraha S.T., M.Eng"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "source": "https://i1.rgstatic.net/ii/profile.image/487677976944640-1493282898404_Q512/Sapta_Nugraha.jpg",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#Dekan",
+      "dialog_node": "node_5_1688638683291",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Information",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Program studi yang tersedia di Fakultas Teknik Umrah :\n1.Teknik Informatika\n2.Teknik Elektro\n3.Teknik Perkapalan"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FAKULTAS_TEKNIK",
+      "dialog_node": "node_6_1688590481738",
+      "previous_sibling": "node_10_1688593282923"
+    },
+    {
+      "type": "standard",
+      "title": "Informasi sistem perkuliahan",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sistem perkuliahan di Fakultas Teknik Umrah :\n\n1. SKS (Satuan Kredit Semester): Setiap mata kuliah memiliki bobot SKS yang menunjukkan beban belajar mahasiswa dalam satu semester. Biasanya, satu mata kuliah setara dengan 2-3 SKS. Jumlah SKS yang harus ditempuh untuk lulus dapat bervariasi tergantung pada program studi dan universitas.\n\n2. Jadwal Kuliah: Mahasiswa akan membuat jadwal kuliah berdasarkan mata kuliah yang ingin diambil. Jadwal kuliah akan menentukan waktu dan tempat perkuliahan. Biasanya, jadwal kuliah terdiri dari kuliah tatap muka (face-to-face), kuliah online, praktikum, atau kegiatan laboratorium tergantung pada jenis mata kuliah.\n\n3. Metode Pembelajaran: Metode pembelajaran di Fakultas Teknik dapat meliputi kuliah, tutorial, diskusi kelompok, praktikum, proyek, atau kombinasi dari beberapa metode tersebut. Dalam beberapa kasus, ada juga penggunaan teknologi dan perangkat lunak khusus yang relevan dengan bidang teknik.\n\n4. Evaluasi dan Penilaian: Evaluasi dan penilaian dilakukan untuk mengukur pemahaman dan kemampuan mahasiswa. Ini dapat termasuk ujian tertulis, tugas individu atau kelompok, presentasi, proyek, praktikum, atau ujian akhir semester. Bobot penilaian dan persentase yang diberikan untuk setiap komponen penilaian biasanya dijelaskan dalam silabus atau pedoman mata kuliah.\n\n5. Bimbingan Akademik: Setiap mahasiswa biasanya memiliki dosen pembimbing akademik yang akan memberikan panduan dan bimbingan terkait pilihan mata kuliah, perencanaan studi, dan tujuan akademik secara umum."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FAKULTAS_TEKNIK1",
+      "dialog_node": "node_7_1688591432522",
+      "previous_sibling": "node_6_1688590481738"
+    },
+    {
+      "type": "standard",
+      "title": "anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "maaf pertanyaan tidak dikenali, mohon ganti pertanyaan anda"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_7_1688658825213",
+      "previous_sibling": "node_3_1688591849793"
+    },
+    {
+      "type": "standard",
+      "title": "laboratorium",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Yaa! pastinya ada donggg guys"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1688591849793",
+      "conditions": "#Laboratorium",
+      "dialog_node": "node_8_1688592080138"
+    },
+    {
+      "type": "standard",
+      "title": "informasi organisasi",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Organisasi Mahasiswa di FTTK UMRAH: \nTerdapat berbagai organisasi mahasiswa di Fakultas Teknik, seperti Dewan Perwakilan Mahasiswa (DPM), Badan Eksekutif Mahasiswa (BEM), Himpunan Mahasiswa Jurusan (HMJ), Robotik, Cybersecurity, SEMPENA dan masih banyak yang lainnya"
+              },
+              {
+                "text": "kalau mau tau lebih detail daftarrr"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Organisasi",
+      "dialog_node": "node_9_1688592563383",
+      "previous_sibling": "node_5_1688592402166"
+    },
+    {
+      "type": "standard",
+      "title": "ukt",
+      "output": {
+        "generic": [
+          {
+            "source": "https://1.bp.blogspot.com/-wGyn5fTRJKQ/YS0Peeuok9I/AAAAAAAACUM/k-mgxZvfHC8jQ2cqOOJRfgD_76EnxLaYQCLcBGAsYHQ/s544/Biaya-kuliah-UMRAH-2021.png",
+            "response_type": "image"
+          }
+        ]
+      },
+      "conditions": "#UKT",
+      "dialog_node": "node_9_1688660181662",
+      "previous_sibling": "node_5_1688597440380"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello! Selamat datang di Program Pengenalan Kehidupan Kampus Mahasiswa Baru (PKKMB)!\n\nSaya adalah Asisten Virtual AI yang siap membantu Anda dalam menjalani PKKMB di Fakultas Teknik. Sebagai anggota tim layanan pelayanan AI, tujuan saya adalah menyediakan informasi, menjawab pertanyaan, dan memberikan panduan kepada Anda sepanjang acara ini."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PKKMB_FTTK_UMRAH",
+      "digress_in": "does_not_return",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "learning_opt_out": false,
+  "language": "en",
+  "description": "created for assistant c3caeb2a-27b1-4821-a0af-650900b825c5",
+  "name": "AI assistant pelayanan PKKMB FTTK UMRAH-dialog"
+}
